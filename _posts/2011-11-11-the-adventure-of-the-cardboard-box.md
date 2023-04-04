@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Adventure of the Cardboard Box"
-author: "Arthur Conan Doyle"
+title: "Visual"
+author: "Emery Ogah"
 categories: literature
 ---
 
